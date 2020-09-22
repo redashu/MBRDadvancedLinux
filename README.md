@@ -57,3 +57,43 @@
 <img src="methoduser.png">
 
 
+# LInux File system security 
+
+<img src="fssec.png">
+
+## checking permissions
+
+<img src="permcheck.png">
+
+## advanced permission setup
+
+<img src="adperm.png">
+
+## sticky bit permission 
+
+<img src="stickybit.png">
+
+```
+chmod +t /dir2
+
+```
+
+## SGID 
+
+<img src="sgid.png">
+
+### implementing 
+
+<img src="sgidimplement.png">
+
+## stickybit and sgid using number 
+
+<img src="adnum.png">
+
+## Suid concept 
+
+<img src="suidcon.png">
+
+## suid implementation 
+
+<img src="suidimp.png">
