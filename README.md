@@ -34,6 +34,11 @@
 
 <img src="demopipe.png">
 
+
+## deleting user
+
+<img src="userdel.png">
+
 ## understanding for / while loop with example
 
 <img src="for.png">
@@ -42,5 +47,13 @@
 
 <img src="useraddfor.png">
 
+
+## opensuse useradd 
+
+<img src="suseuseradd.png">
+
+## adding users in open suse
+
+<img src="methoduser.png">
 
 
