@@ -67,3 +67,21 @@ setfacl -x u:u6  /project
 
 <img src="yumreal.png">
 
+## YUm and rpm internal working 
+
+<img src="rpmyum.png">
+
+
+## advanced list of package management system 
+
+<img src="advpkg.png">
+
+## checking history of yum 
+
+<img src="yumhistory.png">
+
+##  yum undo with dependency
+
+
+<img src="yumundo.png">
+
