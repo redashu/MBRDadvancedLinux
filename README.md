@@ -25,4 +25,20 @@ setfacl -x u:u6  /project
 <img src="blankacl.png">
 
 
+# package Management  in Linux 
+
+<img src="pkg.png">
+
+## type of package
+
+<img src="pkgtype.png">
+
+## check package status 
+
+<img src="pkgcheck.png">
+
+## after rpm installation what changes made in system 
+
+<img src="pkginstallchange.png">
+
 
