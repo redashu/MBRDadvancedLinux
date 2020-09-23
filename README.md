@@ -41,4 +41,29 @@ setfacl -x u:u6  /project
 
 <img src="pkginstallchange.png">
 
+## List of all installed software / package in centos 
+
+<img src="pkglist.png">
+
+# managing package install with YUM 
+
+<img src="yumsearch.png">
+
+## installing using yum
+
+<img src="install.png">
+
+## query to a package 
+
+<img src="pkgquery.png">
+
+## install using rpm
+
+<img src="pkginstall.png">
+
+
+# YUM and rpm explained
+
+
+<img src="yumreal.png">
 
