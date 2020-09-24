@@ -37,3 +37,24 @@
 ## setting jdk path for jps
 
 <img src="jdkpath.png">
+
+
+# SHell script for software installation 
+
+<img src="softinstall.png">
+
+
+
+# Kernel : The Ultimate OS Engine 
+
+<img src="kernelinfo.png">
+
+## Kernel to process
+
+<img src="kernelprocess.png">
+
+## kernel driver directory index
+
+<img src="kerneldriver.png">
+
+
