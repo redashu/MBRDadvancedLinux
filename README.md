@@ -19,3 +19,17 @@
 
 <img src="servercomm.png">
 
+# OpenSuse package manager :- Zypper
+
+## search pkg 
+
+<img src="pkgsearch.png">
+
+
+## zypper client configuration 
+
+<img src="zypclient.png">
+
+# JAVA installation with JDK 
+
+<img src="jdk.png">
