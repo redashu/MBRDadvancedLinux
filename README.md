@@ -33,3 +33,7 @@
 # JAVA installation with JDK 
 
 <img src="jdk.png">
+
+## setting jdk path for jps
+
+<img src="jdkpath.png">
