@@ -43,4 +43,12 @@
 <img src="restorecon.png">
 
 
+# Networkin 
+
+<img src="setup.png">
+
+## checking arp and routing table
+
+<img src="arp.png">
+
 
