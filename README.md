@@ -24,3 +24,23 @@
 <img src="grub2mkconfig.png">
 
 
+# Root password breaking 
+
+## step 1 reboot and select kernel 
+
+<img src="rebootselect.png">
+
+## step 2  edit grub2 line to pass kernel parameter
+
+<img src="parameter.png">
+
+## mount temp filesystem called sysroot 
+
+<img src="sysroot.png">
+
+##  make root password persistent
+
+<img src="restorecon.png">
+
+
+
