@@ -92,6 +92,28 @@ systemctl enable nfs-server
 ```
 
 
+# CIFS --
+
+<img src="cifs.png">
+
+# web server the life line of http  / https
+
+<img src="webserver.png">
+
+# configuration and setup on centos 7
+
+## install httpd
+
+<img src="httpdinstall.png">
+
+## check configuration file and its details
+
+<img src="httpdconf.png">
+
+##  Create default page and start httpd
+
+<img src="httpstart.png">
+
 
 
 
