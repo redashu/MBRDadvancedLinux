@@ -50,5 +50,24 @@
 <img src="nfsmount.png">
 
 
+## allow write operation to clients on server side
+
+<img src="nfswrite.png">
+
+## nfs client persistent mount 
+
+<img src="nfsper.png">
+
+##  another mounting 
+
+<img src="mountnfs.png">
+
+
+## Server configuration updates
+
+<img src="nfsserver.png">
+
+
+
 
 
