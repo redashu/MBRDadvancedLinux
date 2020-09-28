@@ -68,6 +68,30 @@
 <img src="nfsserver.png">
 
 
+# NFS server On centos 7
+
+##  Install software 
+
+```
+yum install nfs-utils -y
+```
+
+## configuration file is same as opensuse 
+
+```
+cat /etc/exports 
+
+```
+
+## starting. nfs service
+
+```
+systemctl start nfs-server
+systemctl enable nfs-server
+
+```
+
+
 
 
 
