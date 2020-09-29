@@ -43,3 +43,22 @@ rpm -ql httpd
 <img src="selinuxport.png">
 
 
+# Troubleshooting  
+
+<img src="shoot.png">
+
+# Logs in OS 
+
+<img src="rsyslog.png">
+
+## rsyslog checking 
+
+<img src="rlogcheck.png">
+
+# Remote authentication with LDAP 
+
+<img src="ldap1.png">
+
+## More on remote auth and LDAP 
+
+<img src="ldap2.png">
