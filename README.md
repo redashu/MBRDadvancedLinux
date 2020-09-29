@@ -36,3 +36,10 @@ rpm -ql httpd
 ## disable selinux and change port 
 
 <img src="selinuxd.png">
+
+
+## adding. port in selinux policy 
+
+<img src="selinuxport.png">
+
+
