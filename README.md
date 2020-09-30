@@ -34,6 +34,16 @@
 
 <img src="table.png">
 
+## MBR done
+
+<img src="mbrdone.png">
+
+# GPT 
+
+<img src="gptstart.png">
+
+
+
 ## understanding size of partition 
 
 <img src="sector.png">
