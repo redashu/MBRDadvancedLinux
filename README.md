@@ -70,3 +70,18 @@
 
 
 
+# creating and saving first MBR partition 
+
+<img src="fdisksave.png">
+
+## updating partition table concept and solution 
+
+<img src="tableupdate.png">
+
+## 3 steps for store data in hard disk 
+
+<img src="3steps.png">
+
+## final steps to format and mount partition 
+
+<img src="mount.png">
