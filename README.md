@@ -78,7 +78,36 @@ resize2fs  path of LV
 <img src="vgextend.png">
 
 
+# LVM and  hard disk clean process 
 
+## Inshort we can revert usable disk to RAW disk 
+
+## process of lvm remove
+
+<img src="cleanup.png">
+
+
+# Step of clean up lvm type hard disk 
+
+## Step 1 : take backup of data 
+
+<img src="backup.png">
+
+## step 2 : unmount lvm 
+
+<img src="unmount.png">
+
+## step 3 : lvremove
+
+<img src="lvremove.png">
+
+## step 4: remove vg 
+
+<img src="vgremove.png">
+
+## step 5 : remove pv
+
+<img src="pvremove.png">
 
 
 
