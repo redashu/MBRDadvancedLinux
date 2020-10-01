@@ -52,6 +52,33 @@
 
 <img src="lvfm.png">
 
+## LVM extending 
+
+<img src="lvextend.png">
+
+## lvm resizing 
+
+<img src="lvmresize.png">
+
+----
+
+## if XFS is the existing filesystem then 
+
+<img src="xfsgrow.png">
+
+## in case of EXt,2,3,4
+
+```
+resize2fs  path of LV 
+
+```
+
+## Extending volume group
+
+<img src="vgextend.png">
+
+
+
 
 
 
