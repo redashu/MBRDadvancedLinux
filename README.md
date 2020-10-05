@@ -43,3 +43,58 @@
 ## setting value of swapiness
 
 <img src="swappiness.png">
+
+
+# Symbolic links 
+
+<img src="link.png">
+
+## some commands 
+
+### for hard link
+
+```
+
+ln original.txt  linkname.txt
+
+```
+
+## soft link
+
+```
+ln -s original.txt  linkname.txt 
+
+```
+
+# Some useful shell commands
+
+## cut demo
+
+<img src="cut.png">
+
+## awk demo
+
+<img src="awk.png">
+
+
+## sed more 
+
+<img src="sed1.png">
+
+---
+
+<img src="sed2.png">
+
+## sed update in file
+
+<img src="sed3.png">
+
+
+# limits in linux
+
+<img src="limit1.png">
+
+---
+
+<img src="limit2.png">
+
