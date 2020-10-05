@@ -28,4 +28,18 @@
 
 <img src="thin.png">
 
+# Swap memory concept 
 
+<img src="swap.png">
+
+## swap memory size concept 
+
+<img src="swapsize.png">
+
+## swap done
+
+<img src="swapdone.png">
+
+## setting value of swapiness
+
+<img src="swappiness.png">
